@@ -15,7 +15,7 @@ public class EsPalindromo implements ValidarDatos{
 				
 			}			
 		}	
-		throw new PrestamoException("los libros palíndromos solo se pueden utilizar en la biblioteca");
+		throw new PrestamoException("los libros palindromos solo se pueden utilizar en la biblioteca");
 	}
 
 }
